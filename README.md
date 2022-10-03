@@ -16,9 +16,6 @@
 <a href="https://twitter.com/gabrielnikolov6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielnikolov6" height="30" width="40" /></a>
 <a href="https://fb.com/габриел николов" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="габриел николов" height="30" width="40" /></a>
 <a href="https://instagram.com/gabriel_nikolovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabriel_nikolovv" height="30" width="40" /></a>
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
