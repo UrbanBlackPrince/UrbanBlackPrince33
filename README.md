@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning ... Everything
 
-- 💬 Ask me about ... Anythink
-
 - 📫 How to reach me **urbanblackprince@gmail.com**
 
 - ⚡ Fun fact **I think i am funny**
