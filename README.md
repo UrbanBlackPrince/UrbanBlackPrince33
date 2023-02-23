@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I think i am funny**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrbanBlackPrince33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)<p></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gabrielnikolov6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gabrielnikolov6" height="30" width="40" /></a>
