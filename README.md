@@ -3,13 +3,7 @@
 <h3 align="center">A passionate developer from Bulgaria</h3>
 <h3 align="center"><strong>(Hard work and perseverance, this is the strength with the help of which a person becomes the greatest in every endeavor!)</strong></h3>
 
-- 🌱 I’m currently learning ... Everything
-
-- 📫 How to reach me **urbanblackprince@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UrbanBlackPrince33&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)<p></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrbanBlackPrince33a&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
