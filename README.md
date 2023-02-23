@@ -3,8 +3,6 @@
 <h3 align="center">A passionate developer from Bulgaria</h3>
 <h3 align="center"><strong>(Hard work and perseverance, this is the strength with the help of which a person becomes the greatest in every endeavor!)</strong></h3>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=UrbanBlackPrince33)<p></p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrbanBlackPrince33&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
