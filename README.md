@@ -6,9 +6,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UrbanBlackPrince33&layout=compact&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.facebook.com/Габриел.Николов">![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn]([https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/gabriel-nikolov-97131a252/))
 
 ![snake gif](https://github.com/UrbanBlackPrince33/UrbanBlackPrince33/blob/output/github-contribution-grid-snake.gif)
 
